@@ -4,6 +4,7 @@ import SectionAbout from "../components/SectionAbout";
 import SectionBio from "../components/SectionBio";
 import SectionProjects from "../components/SectionProjects";
 import SectionContact from "../components/SectionContact";
+import SectionCaseStudies from "../components/SectionCaseStudies";
 
 const Home = () => {
   
@@ -35,6 +36,7 @@ const Home = () => {
       <SectionAbout />
       <SectionBio/>
       <SectionProjects/>
+      <SectionCaseStudies/>
       <SectionContact/>
     </>
   );
