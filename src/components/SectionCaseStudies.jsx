@@ -10,7 +10,7 @@ const studies = [
       "I designed the interface in Figma and built the whole responsive front end myself.",
     stack: "React, Vite, Tailwind CSS, Figma",
     note: "Front end only, with no back end.",
-    link: "https://healthcare-app-five.vercel.app",
+    link: "https://docnow-eg.vercel.app",
   },
   {
     title: "KADER Factory Website",
@@ -20,7 +20,7 @@ const studies = [
     built:
       "I built it as a single-page app in vanilla JavaScript at AOI, using reusable components. AOI's sites use a custom i18n engine for English/Arabic (RTL).",
     stack: "Vanilla JavaScript, HTML5, CSS3, Bootstrap, i18n/RTL",
-    link: "https://kadar-nativejs.vercel.app",
+    link: "https://kader-eg.vercel.app",
   },
   {
     title: "OGME",

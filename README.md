@@ -2,7 +2,7 @@
 
 Personal portfolio and case studies of a UI/UX designer and full-stack (MERN) developer based in Cairo.
 
-**Live:** https://resume-orpin-iota-38.vercel.app
+**Live:** https://muhammed-adham-dev.vercel.app
 
 ## Sections
 - Projects: OGME e-commerce store, KADER factory site, AOI Academy, DocNow (healthcare booking front end), Shopify stores

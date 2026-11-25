@@ -19,7 +19,7 @@ const SectionProjects = () => {
         <h1 className="projects-title hidden">project</h1>
         <div className="cards-container hidden">
           <a
-            href="https://theme-switch-eosin.vercel.app/"
+            href="https://theme-switch-demo.vercel.app/"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -40,7 +40,7 @@ const SectionProjects = () => {
             </div>
           </a>
           <a
-            href="https://healthcare-app-five.vercel.app/"
+            href="https://docnow-eg.vercel.app/"
             target="_blank"
             rel="noopener noreferrer"
           >
