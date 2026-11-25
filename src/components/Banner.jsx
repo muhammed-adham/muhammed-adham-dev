@@ -6,9 +6,8 @@ const Banner = () => {
   const handleDownload = () => {
     // Create an anchor element
     const link = document.createElement('a');
-    link.href = './src/assets/MuhammedAdham_FullStack_UX_UI_Developer.docx.pdf'; // Path to your resume file
+    link.href = '/MuhammedAdham_CV.pdf'; // CV served from /public
     link.target = '_blank'; // Open in a new tab
-    // link.download = 'MuhammedAdham_FullStack_UX_UI_Developer.docx.pdf'; // The name of the downloaded file
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);
