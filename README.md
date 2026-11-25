@@ -1,8 +1,19 @@
-# React + Vite
+# Muhammed Adham – Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Personal portfolio and case studies of a UI/UX designer and full-stack (MERN) developer based in Cairo.
 
-Currently, two official plugins are available:
+**Live:** https://resume-orpin-iota-38.vercel.app
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Sections
+- Projects: OGME e-commerce store, KADER factory site, AOI Academy, DocNow (healthcare booking front end), Shopify stores
+- Case studies: challenge, what I did, stack for each project
+- CV download
+
+## Stack
+React, Vite, SCSS
+
+## Run locally
+```bash
+npm install
+npm run dev
+```
