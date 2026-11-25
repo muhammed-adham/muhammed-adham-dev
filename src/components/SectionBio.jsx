@@ -14,16 +14,18 @@ const SectionBio = () => {
               Narratives into <span>Art.</span>
             </h1>
             <p className="hidden">
-              7 years ago, I began freelancing as a developer. Since then, I
-              have done remote work for agencies, consulted for startups, and
-              collaborated on digital products for business and consumer use.
+              I design in Figma and build the whole product: React front ends,
+              vanilla JavaScript when a framework isn't needed, and
+              Node/Express/MongoDB back ends. I've shipped healthcare,
+              e-commerce, industrial and education websites, including
+              bilingual English/Arabic builds.
             </p>
           </div>
           <div className="badges">
             <div className="counter experience">
               <CountUp
                 start={0}
-                end={5}
+                end={3}
                 duration={1}
                 redraw
                 delay={0.7}
@@ -36,28 +38,15 @@ const SectionBio = () => {
             <div className="counter projects">
               <CountUp
                 start={0}
-                end={12}
+                end={4}
                 duration={1}
                 redraw
                 delay={0.7}
                 className="hidden"
               />{" "}
-              <span className="hidden">+</span>
+              
               {/* <h2>1+</h2> */}
-              <p className="hidden">projects completed</p>
-            </div>
-            <div className="counter clients">
-              <CountUp
-                start={0}
-                end={12}
-                duration={1}
-                redraw
-                delay={0.7}
-                className="hidden"
-              />{" "}
-              <span className="hidden">+</span>
-              {/* <h2>1+</h2> */}
-              <p className="hidden">satisfied clients</p>
+              <p className="hidden">projects shipped</p>
             </div>
           </div>
           <div className="skills">

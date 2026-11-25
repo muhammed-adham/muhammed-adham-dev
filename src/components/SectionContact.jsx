@@ -11,7 +11,7 @@ const SectionContact = () => {
             muharaafat@gmail.com
             </a>
             </p>
-        <p className="rights">copyright 2024 Muhammed Adham, all rights reserved</p>
+        <p className="rights">copyright 2026 Muhammed Adham, all rights reserved</p>
       </section>
     </>
   );
