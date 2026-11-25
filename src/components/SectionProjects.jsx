@@ -1,5 +1,5 @@
 import React, { useEffect } from "react";
-import { FaFigma, FaNodeJs, FaReact, FaSass } from "react-icons/fa";
+import { FaFigma, FaReact, FaSass } from "react-icons/fa";
 import VanillaTilt from "vanilla-tilt";
 
 const SectionProjects = () => {
@@ -52,14 +52,13 @@ const SectionProjects = () => {
             >
               <div className="logo">
                 <FaReact />
-                <FaNodeJs />
               </div>
               <div className="pic">
                 <img src="/health.png" alt="" />
               </div>
               <div className="title">Healthcare web app.</div>
               <div className="desc">
-                Crafting a responsive web app with React.js, Node.js
+                A responsive healthcare booking front end built with React, Vite and Tailwind.
               </div>
             </div>
           </a>
